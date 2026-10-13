@@ -1,0 +1,44 @@
+[
+  {
+    "packageName": "com.kuba.sklep",
+    "name": "Porta",
+    "shortDesc": "Moje aplikacje w jednym miejscu — instalacja i aktualizacje jednym przyciskiem.",
+    "description": "Porta instaluje i aktualizuje aplikacje od KX: Tenax, Gradus i kolejne. Bez kont, bez logowania, bez reklam. Lista aplikacji to jeden plik na GitHubie, pliki instalacyjne leżą w wydaniach na GitHubie.",
+    "versionCode": 1001,
+    "versionName": "2026.10.13-1",
+    "apkUrl": "https://github.com/XXXKX-KK/moj-sklep-katalog/releases/download/v1001/moj-sklep.apk",
+    "iconUrl": "https://raw.githubusercontent.com/XXXKX-KK/moj-sklep-katalog/main/ikony/moj-sklep.png",
+    "accentColor": "#AEB4BE",
+    "changelog": "Pierwsza wersja sklepu Porta.",
+    "sizeMb": 3.4,
+    "_todo": "Ten wpis uzupełnia sam workflow „Wydaj wersję” (versionCode, versionName, apkUrl, sizeMb, changelog) przy każdym wydaniu sklepu. Ręcznie nie ruszaj."
+  },
+  {
+    "packageName": "com.tenax.app",
+    "name": "Tenax",
+    "shortDesc": "Planer dnia z blokadą aplikacji — telefon nie zje Ci dnia.",
+    "description": "Tenax to planer dnia z blokadą aplikacji: zapisujesz, co masz zrobić, a apka pilnuje, żeby telefon nie zjadł Ci dnia.\n\nZaczynasz dzień jednym przyciskiem, układasz zadania i rutyny, a w skupieniu rozpraszające aplikacje są zablokowane.",
+    "versionCode": 1012,
+    "versionName": "2026.10.13-12",
+    "apkUrl": "https://github.com/XXXKX-KK/tenax-pobierz/releases/download/v1012/tenax.apk",
+    "iconUrl": "https://raw.githubusercontent.com/XXXKX-KK/moj-sklep-katalog/main/ikony/tenax.png",
+    "accentColor": "#3B82F6",
+    "changelog": "Ikony paska stanu dopasowane do motywu.",
+    "sizeMb": 3.7,
+    "_todo": "screenshots, videoUrl, videoThumbUrl — wrzuć zrzuty i filmik do Releases tenax-pobierz i dopisz adresy (pola opcjonalne)."
+  },
+  {
+    "packageName": "com.gradus.app",
+    "name": "Gradus",
+    "shortDesc": "Finanse osobiste krok po kroku: najpierw bezpieczeństwo, potem bogacenie się.",
+    "description": "Gradus to finanse osobiste krok po kroku: zapisujesz wpływy i wydatki, budujesz rezerwę, planujesz koszty nieregularne i cele.\n\nDane są tylko na Twoim telefonie. Bez konta, bez logowania, bez chmury.",
+    "versionCode": 1005,
+    "versionName": "2026.10.13-5",
+    "apkUrl": "https://github.com/XXXKX-KK/gradus-pobierz/releases/download/v1005/gradus.apk",
+    "iconUrl": "https://raw.githubusercontent.com/XXXKX-KK/moj-sklep-katalog/main/ikony/gradus.png",
+    "accentColor": "#22C55E",
+    "changelog": "Ikony paska stanu dopasowane do motywu.",
+    "sizeMb": 3.9,
+    "_todo": "screenshots, videoUrl, videoThumbUrl — wrzuć zrzuty i filmik do Releases gradus-pobierz i dopisz adresy (pola opcjonalne)."
+  }
+]
