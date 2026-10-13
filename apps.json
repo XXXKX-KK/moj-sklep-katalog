@@ -59,12 +59,12 @@
     "name": "Zasięg",
     "shortDesc": "Prędkość internetu na pasku stanu i mapa słabego zasięgu dla kurierów.",
     "description": "Zasięg pokazuje na pasku stanu aktualną prędkość internetu, a kolor powiadomienia mówi, czy połączenie jest dobre, słabe czy go nie ma. Od razu wiesz, czy to apka się wiesza, czy brakuje zasięgu.\n\nW trybie zmiany aplikacja buduje Twoją własną mapę zasięgu i ostrzega, że za chwilę wjedziesz w słabe miejsce. Na mapie widać też nadajniki operatorów. Twoje pomiary zostają na telefonie.",
-    "versionCode": 1011,
-    "versionName": "2026.10.05-11",
-    "apkUrl": "https://github.com/XXXKX-KK/zasieg-pobierz/releases/download/v1011/zasieg.apk",
+    "versionCode": 1012,
+    "versionName": "2026.10.13-12",
+    "apkUrl": "https://github.com/XXXKX-KK/zasieg-pobierz/releases/download/v1012/zasieg.apk",
     "iconUrl": "https://raw.githubusercontent.com/XXXKX-KK/moj-sklep-katalog/main/ikony/zasieg.png",
     "accentColor": "#CDF54A",
-    "changelog": "Ekran Teraz prostszy: nowa ikona Rozmowy, mniej kart.",
-    "sizeMb": 72.4
+    "changelog": "Nowa ikona (pinezka z zasięgiem) i dużo mniejszy plik instalacyjny.",
+    "sizeMb": 37.9
   }
 ]
