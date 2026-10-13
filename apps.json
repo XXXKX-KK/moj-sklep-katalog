@@ -40,5 +40,31 @@
     "changelog": "Ikony paska stanu dopasowane do motywu.",
     "sizeMb": 3.9,
     "_todo": "screenshots, videoUrl, videoThumbUrl — wrzuć zrzuty i filmik do Releases gradus-pobierz i dopisz adresy (pola opcjonalne)."
+  },
+  {
+    "packageName": "com.vital.app",
+    "name": "Vital",
+    "shortDesc": "Zdrowie i forma w jednym miejscu: dieta, trening, sen i badania.",
+    "description": "Vital zbiera w jednym miejscu to, co decyduje o formie: dietę, trening, sen i wyniki badań.\n\nNa górze ocena dnia, pod nią duże kafelki modułów. Zaczynasz dzień jednym przyciskiem i od razu widzisz, co dziś do zrobienia.",
+    "versionCode": 1010,
+    "versionName": "2026.10.13-10",
+    "apkUrl": "https://github.com/XXXKX-KK/vital-pobierz/releases/download/v1010/vital.apk",
+    "iconUrl": "https://raw.githubusercontent.com/XXXKX-KK/moj-sklep-katalog/main/ikony/vital.png",
+    "accentColor": "#E23B5A",
+    "changelog": "Płynny pasek przerwy na wyspie. Powiadomienie na ekranie blokady i Now Bar w kolorze akcentu.",
+    "sizeMb": 3.9
+  },
+  {
+    "packageName": "com.zasieg.app",
+    "name": "Zasięg",
+    "shortDesc": "Prędkość internetu na pasku stanu i mapa słabego zasięgu dla kurierów.",
+    "description": "Zasięg pokazuje na pasku stanu aktualną prędkość internetu, a kolor powiadomienia mówi, czy połączenie jest dobre, słabe czy go nie ma. Od razu wiesz, czy to apka się wiesza, czy brakuje zasięgu.\n\nW trybie zmiany aplikacja buduje Twoją własną mapę zasięgu i ostrzega, że za chwilę wjedziesz w słabe miejsce. Na mapie widać też nadajniki operatorów. Twoje pomiary zostają na telefonie.",
+    "versionCode": 1011,
+    "versionName": "2026.10.05-11",
+    "apkUrl": "https://github.com/XXXKX-KK/zasieg-pobierz/releases/download/v1011/zasieg.apk",
+    "iconUrl": "https://raw.githubusercontent.com/XXXKX-KK/moj-sklep-katalog/main/ikony/zasieg.png",
+    "accentColor": "#CDF54A",
+    "changelog": "Ekran Teraz prostszy: nowa ikona Rozmowy, mniej kart.",
+    "sizeMb": 72.4
   }
 ]
