@@ -46,12 +46,12 @@
     "name": "Vital",
     "shortDesc": "Zdrowie i forma w jednym miejscu: dieta, trening, sen i badania.",
     "description": "Vital zbiera w jednym miejscu to, co decyduje o formie: dietę, trening, sen i wyniki badań.\n\nNa górze ocena dnia, pod nią duże kafelki modułów. Zaczynasz dzień jednym przyciskiem i od razu widzisz, co dziś do zrobienia.",
-    "versionCode": 1010,
-    "versionName": "2026.10.13-10",
-    "apkUrl": "https://github.com/XXXKX-KK/vital-pobierz/releases/download/v1010/vital.apk",
+    "versionCode": 1012,
+    "versionName": "2026.10.14-12",
+    "apkUrl": "https://github.com/XXXKX-KK/vital-pobierz/releases/download/v1012/vital.apk",
     "iconUrl": "https://raw.githubusercontent.com/XXXKX-KK/moj-sklep-katalog/main/ikony/vital.png?v=2",
     "accentColor": "#E23B5A",
-    "changelog": "Płynny pasek przerwy na wyspie. Powiadomienie na ekranie blokady i Now Bar w kolorze akcentu.",
+    "changelog": "Ustawienia treningu: stan pastylki z czasem na pasku stanu i w Now Bar oraz skrót do ustawień, które ją włączają.",
     "sizeMb": 3.9
   },
   {
