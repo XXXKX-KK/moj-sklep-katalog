@@ -46,12 +46,12 @@
     "name": "Vital",
     "shortDesc": "Zdrowie i forma w jednym miejscu: dieta, trening, sen i badania.",
     "description": "Vital zbiera w jednym miejscu to, co decyduje o formie: dietę, trening, sen i wyniki badań.\n\nNa górze ocena dnia, pod nią duże kafelki modułów. Zaczynasz dzień jednym przyciskiem i od razu widzisz, co dziś do zrobienia.",
-    "versionCode": 1015,
-    "versionName": "2026.11.06-15",
-    "apkUrl": "https://github.com/XXXKX-KK/vital-pobierz/releases/download/v1015/vital.apk",
+    "versionCode": 1017,
+    "versionName": "2026.11.07-17",
+    "apkUrl": "https://github.com/XXXKX-KK/vital-pobierz/releases/download/v1017/vital.apk",
     "iconUrl": "https://raw.githubusercontent.com/XXXKX-KK/moj-sklep-katalog/main/ikony/vital.png?v=2",
     "accentColor": "#E23B5A",
-    "changelog": "Trening w nowym wyglądzie: ekran główny ze zdjęciem i logo KX, statystyki (treningi, progres, kalorie), nowy dolny pasek, czerwień ze wzoru i dopasowana wyspa.",
+    "changelog": "Rozwinięta wyspa zwija się po dotknięciu obok. Ikona Trening na dolnym pasku jak pozostałe (czerwony kontur).",
     "sizeMb": 27.0
   },
   {
